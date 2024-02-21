@@ -1,6 +1,6 @@
-#A small project to learn about the basics of XSS (cross-site scripting)
+# A small project to learn about the basics of XSS (cross-site scripting)
 
-##Requirements
+## Requirements
 
 node -> Recomendation: Install it with nvm [https://github.com/nvm-sh/nvm] steps: 
 
@@ -8,12 +8,12 @@ node -> Recomendation: Install it with nvm [https://github.com/nvm-sh/nvm] steps
 
 `export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")" [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm`
 
-##Install dependencies
+## Install dependencies
 
 In the root folder run:
 `npm i`
 
-##Start Project
+## Start Project
 
 In the root folder run:
 `node debug.js`

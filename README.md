@@ -2,7 +2,7 @@
 
 ##Requirements
 
-node -> Recomendation: Install it with nvm https://github.com/nvm-sh/nvm steps: 
+node -> Recomendation: Install it with nvm [https://github.com/nvm-sh/nvm] steps: 
 
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash`
 
